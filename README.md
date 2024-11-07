@@ -1,0 +1,1 @@
+# buf-example-go
